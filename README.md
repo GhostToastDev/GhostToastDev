@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @GhostToastDev
-- 👀 I’m interested in milfs
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Python
 - 📫 How to reach me GhostToast#5651
 
 <!---
